@@ -1,0 +1,5 @@
+Hi, this is an advanced learning code for 
+those of you who are new to FreeRtos
+
+You should start first by clicking the link below
+https://github.com/IchalAlwiros/Build-First-FreeRTOS.git
